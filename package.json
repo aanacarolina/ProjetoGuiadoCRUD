@@ -1,0 +1,20 @@
+{
+  "name": "ProjetoGuiadoSemana14",
+  "version": "1.0.0",
+  "description": "Entregável Semana 14 reprograma Carol SN",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Carol SN",
+  "license": "ISC"
+}
